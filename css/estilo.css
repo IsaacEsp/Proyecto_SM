@@ -1,0 +1,140 @@
+#butlis {
+    margin: 5px;
+    margin-top: 25px;
+    border: none;
+}
+
+#fila {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.form-control {
+    border-radius: 30px;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+#headlanding {
+    background-image: url('../img/img1.jpg');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
+
+.title-color {
+
+    color: white;
+}
+
+.title {
+    color: #5080E5;
+    font-size: 45px;
+    font-weight: bold;
+    position: absolute;
+    top: 45%;
+    transform: translateY(-50%);
+
+}
+
+
+.btn {
+
+    background-color: #5080E5;
+    border-radius: 20px;
+    color: White;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.logo {
+    width: 70px;
+}
+
+#row-cursos {
+    background-color: #5080E5;
+    margin: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+#row-nosotros {
+    background-image: url('../img/img6.jpg');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+#row-contactos {
+    background-image: url('../img/img6.jpg');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+#row-servicios {
+    background-image: url('../img/img7.jpg');
+    background-size: cover;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+#row-servicios img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+.p-color {
+    color: white;
+}
+
+#row-datos {
+    background-color: #5080E5;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+.circulo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background-color: #029BD4;
+}
+
+#row-frace {
+    background-color: #5080E5;
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px !important;
+    padding-bottom: 200px !important;
+}
+
+footer {
+    background-color: blue !important;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+@media(max-width:992px){
+    #nav-lista {
+        background-color: #5080E5;
+        border-bottom-left-radius: 15px;
+        border-top-right-radius: 15px;
+        padding-left: 20px;
+    }
+}
+
+nav{
+    z-index: 100;
+}
